@@ -24,10 +24,3 @@ def PredictFart(AudioFilleAddress):
     if Ratios<=0.9:
         return False
 
-#
-#
-# AudioFilleAddress='./data/test_negative.wav'
-# AudioFilleAddress='./data/fart1.wav'
-# AudioFilleAddress='./data/fart4.wav'
-# AudioFilleAddress='./data/fart_clean1_mono.wav'
-# AudioFilleAddress='./data/negative_sample_party_mono.wav'
